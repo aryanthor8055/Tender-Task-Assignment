@@ -37,7 +37,7 @@ export const Column: React.FC<ColumnProps> = ({
 
   return (
     <div
-      className="flex-shrink-0 w-[360px] bg-[#0a0a0a] rounded-xl p-4 flex flex-col"
+      className="flex-shrink-0 w-[340px] bg-[#0a0a0a] rounded-xl p-4 flex flex-col"
       onDragOver={onDragOver}
       onDrop={() => onDrop(status)}
     >
