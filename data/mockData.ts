@@ -16,7 +16,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '2',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 2',
     description: 'Description goes in here about the tender',
     assignee: 'Jane Smith',
     assigneeAvatar: '👤',
@@ -28,7 +28,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '3',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 3',
     description: 'Description goes in here about the tender',
     assignee: 'Mike Johnson',
     assigneeAvatar: '👤',
@@ -42,7 +42,7 @@ export const initialTasks: Task[] = [
 
   {
     id: '4',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 4',
     description: 'Description goes in here about the tender',
     assignee: 'Sarah Williams',
     assigneeAvatar: '👤',
@@ -54,7 +54,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '5',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 5',
     description: 'Description goes in here about the tender',
     assignee: 'Tom Brown',
     assigneeAvatar: '👤',
@@ -66,7 +66,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '6',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 6',
     description: 'Description goes in here about the tender',
     assignee: 'Emily Davis',
     assigneeAvatar: '👤',
@@ -79,7 +79,7 @@ export const initialTasks: Task[] = [
   
   {
     id: '7',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 7',
     description: 'Description goes in here about the tender',
     assignee: 'Chris Wilson',
     assigneeAvatar: '👤',
@@ -91,7 +91,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '8',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 8',
     description: 'Description goes in here about the tender',
     assignee: 'Alex Martinez',
     assigneeAvatar: '👤',
@@ -103,7 +103,7 @@ export const initialTasks: Task[] = [
   },
   {
     id: '9',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 9',
     description: 'Description goes in here about the tender',
     assignee: 'Lisa Anderson',
     assigneeAvatar: '👤',
@@ -116,7 +116,7 @@ export const initialTasks: Task[] = [
   
   {
     id: '10',
-    title: 'Construction Tender 1',
+    title: 'Construction Tender 10',
     description: 'Description goes in here about the tender',
     assignee: 'David Lee',
     assigneeAvatar: '👤',
